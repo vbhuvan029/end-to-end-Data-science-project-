@@ -30,9 +30,5 @@ Overall, the project serves as a beginner-friendly example of combining data sci
 output of the task: 
 
 
-
-
-
-
-
-<img width="643" height="304" alt="Image" src="https://github.com/user-attachments/assets/241f2612-ffc1-4ebd-8f4c-ac3702d59860" />
+<img width="503" height="257" alt="Image" src="https://github.com/user-attachments/assets/fe19880b-d3fc-4c33-adc3-77f7878b413a" />
+<img width="1123" height="830" alt="Image" src="https://github.com/user-attachments/assets/bdcc13e3-5a1f-4505-8c1c-363e4a296f7e" />
